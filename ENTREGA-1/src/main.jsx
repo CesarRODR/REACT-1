@@ -8,8 +8,9 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <>
       <NavBar />
-      <ItemListContainer />
+      <ItemListContainer/>
     </>
   </React.StrictMode>,
 )
+
 

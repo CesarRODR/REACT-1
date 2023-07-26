@@ -2,6 +2,10 @@
 
 export const CartWidget = () => {
   return (
-    <i className="bi bi-cart3"></i>
+    <><div>
+      <i className="bi bi-cart3"></i>
+      5
+    </div>
+    </>
   )
 }
