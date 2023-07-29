@@ -10,7 +10,7 @@ function App() {
   return (
     <>
      <NavBar/>
-      <ItemListContainer/>
+      <ItemListContainer greeting="Hola Bienvenidos a mi primer proyecto con REACT ⚛️"/>
       
     </>
   )
