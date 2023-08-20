@@ -2,7 +2,7 @@
 export const ItemListContainer = ({ greeting }) => {
   return (
     <div>
-      <h1>{greeting}</h1>
+      <h1 style={{color: "black", fontFamily: "sans-serif"}}>{greeting}</h1>
     </div>
   );
 };
